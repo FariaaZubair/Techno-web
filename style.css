@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item{
+    width: 100%;
+    height: 80vh;
+}
+h1{
+    font-family: Dancing script;
+}
+.white{
+    color: white;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body{
+    text-align: center;
+}
